@@ -1,0 +1,23 @@
+Messaging system - send messages back and forth
+peer-to-peer - more than 2?
+
+3 kinds of requests - email, text, announcement (, hack)
+- email: shows subject & time; click to open & read body; can reply to message
+- text: option to accept message requests from new sender; afterwards, shows up in side panel; can reply in chat
+    - need list of recognized senders
+- announcement: banner shows for all users; disappears on timer; no replies
+- hack: send payload; appears as email; upon click, does jump scare and then rick roll; then return to normal
+
+
+Handling different request types:
+Request type in header?
+json object
+- request_type: string
+- message_body: string
+- message_subject: string
+- recipients: list[string]
+Or string with dividers?
+
+Other requests:
+- get list of current users
+- get updates

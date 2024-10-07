@@ -1,0 +1,8 @@
+7-layer OSI model
+
+TCP/IP vs UDP
+
+    # BYUI IP: 157.201.96.100
+    # Nebeker home IP:
+    # Nana's IP: 174.23.128.188
+    # My hotspot IP: 174.230.197.214

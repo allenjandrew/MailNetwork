@@ -1,0 +1,237 @@
+{
+  "recipes": {
+    "0": {
+      "name": "Green Fluff Coolwhip Salad",
+      "description": "This green fluff stuff is my absolute favorite treat!",
+      "isFavorite": true,
+      "tags": ["dessert", "salad"],
+      "difficulty": "easy",
+      "prepTime": 15,
+      "cookTime": 0,
+      "source": "Sally Baird (Nov 2015)",
+      "ingredients": [
+        {
+          "quantity": 16,
+          "measurement": "oz",
+          "ingredient": "cool whip"
+        },
+        {
+          "quantity": 20,
+          "measurement": "oz",
+          "ingredient": "crushed pineapple"
+        },
+        {
+          "quantity": 1,
+          "measurement": "box",
+          "ingredient": "small pistachio pudding mix"
+        },
+        {
+          "quantity": 3,
+          "measurement": "cup",
+          "ingredient": "mini marshmallows"
+        }
+      ],
+      "directions": [
+        "Drain pineapple.",
+        "Mix all ingredients together in a large bowl.",
+        "Refrigerate until ready to serve."
+      ],
+      "notes": [
+        "Works best to mix cool whip and pudding mix first, then add in pineapple and marshmallows",
+        "Sally made 4x for Thanksgiving 2015",
+        "Also known as Watergate Salad"
+      ]
+    },
+    "1": {
+      "name": "Chiapanecan Pozol de Cacao",
+      "description": "Pozol is a chocolate and corn drink native to the Mexican states of Chiapas and Tabasco. It can be hard to get used to its unique taste and texture!",
+      "isFavorite": true,
+      "tags": ["beverage", "mexican"],
+      "difficulty": "easy",
+      "prepTime": 20,
+      "cookTime": 0,
+      "source": "Mix of internet recipes + personal experience",
+      "ingredients": [
+        {
+          "quantity": 1,
+          "measurement": "part",
+          "ingredient": "100% cacao"
+        },
+        {
+          "quantity": 4,
+          "measurement": "part",
+          "ingredient": "nixtamalized corn masa (Maseca Nixtamasa)"
+        },
+        {
+          "quantity": null,
+          "measurement": null,
+          "ingredient": "sugar to taste"
+        },
+        {
+          "quantity": null,
+          "measurement": null,
+          "ingredient": "water"
+        }
+      ],
+      "directions": [
+        "Mix cacao and masa together in a large bowl.",
+        "Combine 3/8 cup pozol powder and 1 tsp sugar into 1 cup of water and mix or shake well.",
+        "Refrigerate.",
+        "Mix well before serving."
+      ],
+      "notes": []
+    },
+    "2": {
+      "name": "Blueberry Sour Cream Pie",
+      "description": "This has been the traditional family favorite ever since Mom got the recipe from a friend before I was even born. We hope you love it as much as we have!",
+      "isFavorite": true,
+      "tags": ["pie", "dessert"],
+      "difficulty": "intermediate",
+      "prepTime": 25,
+      "cookTime": 35,
+      "source": "Jesica Fitzgerald, NC Chapel Hill Ward, July 2000",
+      "ingredients": [
+        {
+          "quantity": 1.0,
+          "measurement": "cup",
+          "ingredient": "sour cream"
+        },
+        {
+          "quantity": 2.0,
+          "measurement": "tbsp",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 0.75,
+          "measurement": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "quantity": 1.0,
+          "measurement": "tsp",
+          "ingredient": "vanilla"
+        },
+        {
+          "quantity": 0.25,
+          "measurement": "tsp",
+          "ingredient": "salt"
+        },
+        {
+          "quantity": 1.0,
+          "measurement": "",
+          "ingredient": "egg"
+        },
+        {
+          "quantity": 2.5,
+          "measurement": "cup",
+          "ingredient": "fresh/frozen blueberries"
+        },
+        {
+          "quantity": null,
+          "measurement": null,
+          "ingredient": "Topping:"
+        },
+        {
+          "quantity": 3.0,
+          "measurement": "tbsp",
+          "ingredient": "flour"
+        },
+        {
+          "quantity": 3.0,
+          "measurement": "tbsp",
+          "ingredient": "butter"
+        },
+        {
+          "quantity": 3.0,
+          "measurement": "tbsp",
+          "ingredient": "pecans or almond slices"
+        }
+      ],
+      "directions": [
+        "Blend first 6 ingredients.",
+        "Fold in blueberries.",
+        "Pour in unbaked pie crust.",
+        "Bake 400\u02da for 25 min.",
+        "For topping: mix with pastry blender and crumble over pie.",
+        "Bake an additional 10 min."
+      ],
+      "notes": [
+        "Tastes great with frozen blackberries",
+        "If I\u2019m doing a \u201cdeep dish\u201c pie then I will do 1 1/2 the recipe"
+      ]
+    },
+    "3": {
+      "name": "Aunt Sally's Granola",
+      "description": "This traditional recipe will be the best homemade granola you've ever tasted.",
+      "isFavorite": true,
+      "tags": ["breakfast"],
+      "difficulty": "easy",
+      "prepTime": 15,
+      "cookTime": 30,
+      "source": "Original recipe from Sally Baird",
+      "ingredients": [
+        {
+          "quantity": 1.5,
+          "measurement": "cup",
+          "ingredient": "canola/coconut oil (300g)"
+        },
+        {
+          "quantity": 0.75,
+          "measurement": "cup",
+          "ingredient": "honey (255g)"
+        },
+        {
+          "quantity": 2.0,
+          "measurement": "tsp",
+          "ingredient": "vanilla (10g)"
+        },
+        {
+          "quantity": 9.0,
+          "measurement": "cup",
+          "ingredient": "rolled oats (810g)"
+        },
+        {
+          "quantity": 1.5,
+          "measurement": "cup",
+          "ingredient": "wheat germ"
+        },
+        {
+          "quantity": 1.0,
+          "measurement": "lb",
+          "ingredient": "coconut (large package)"
+        },
+        {
+          "quantity": 1.5,
+          "measurement": "cup",
+          "ingredient": "chopped almonds/sunflower seeds/cashews (168g)"
+        },
+        {
+          "quantity": 1.5,
+          "measurement": "cup",
+          "ingredient": "bran buds (All Bran)"
+        },
+        {
+          "quantity": 1.5,
+          "measurement": "cup",
+          "ingredient": "powdered milk (optional)"
+        },
+        {
+          "quantity": 2.0,
+          "measurement": "tbsp",
+          "ingredient": "cinnamon"
+        }
+      ],
+      "directions": [
+        "Preheat oven to 325\u02da.",
+        "Heat oil, honey, and vanilla over stove. while heating...",
+        "Combine the rest of the ingredients in the biggest bowl you can find.",
+        "Blend wet ingredients over stovetop until thoroughly combined and pour over dry ingredients.",
+        "Stir and fold until thoroughly combined.",
+        "Spread over 3 jelly-roll baking sheets, sprayed with pam.",
+        "Bake 325\u00b0 for 25 - 35 min. or until coconut is browned (switching trays in oven at halfway mark).",
+        "Remove from oven and stir occasionally to prevent sticking."
+      ],
+      "notes": ["Tastes best immediately after coming out of the oven!"]
+    }
+  }
+}
