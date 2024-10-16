@@ -220,13 +220,18 @@ def handle_user_list_request(conn, message):
 
 
 def build_json_msg(
-    msg_type: str, msg_body: str = "", msg_subject: str = "", recipients: list[str] = []
+    msg_type: str,
+    msg_body: str = "",
+    msg_subject: str = "",
+    recipients: list[str] = [],
+    username="",  # This is only used for the message from the client
 ):
     message = {
         "msg_type": msg_type,
         "msg_subject": msg_subject,
         "msg_body": msg_body,
         "recipients": recipients,
+        "username": username,
     }
     return json.dumps(message)
 
