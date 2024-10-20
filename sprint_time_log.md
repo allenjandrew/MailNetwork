@@ -42,8 +42,6 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 10/5 |    11am    |    IM    | Build out functions, iron out bugs |     4:00      |
 | 10/5 |  10:30pm   |    IM    | ReadMe, time log, bugs             |      :30      |
 
-_Note: Add more rows as needed._
-
 ## Sprint Totals
 
 | Category               | Total Time (Hours:Minutes) |
@@ -51,4 +49,4 @@ _Note: Add more rows as needed._
 | IM - Individual Module |           12:30            |
 | TP - Team Project      |            2:00            |
 | MTG - Class Meetings   |            4:00            |
-| **TOTAL**              |           18:30            |
+| **TOTAL**              |         **18:30**          |
