@@ -94,7 +94,7 @@ def listen():
             print(f"-- from server: Disconnect confirmed --")
             continue
         if msg["msg_type"] == "hack":
-            print(f"-- error: unkown error --")
+            print(f"\n-- error: unknown error --")
             time.sleep(1)
             print(f"-- error: data breach --")
             time.sleep(1)
